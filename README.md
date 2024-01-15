@@ -1,0 +1,1 @@
+#i have created a dynamic Excel project to automate budget tracking for a small business, utilizing advanced formulas and pivot tables and also demonstrated analytical skills, problem-solving, and proficiency in Excel, showcasing a valuable contribution to financial management.
